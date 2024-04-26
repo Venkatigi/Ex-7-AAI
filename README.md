@@ -1,5 +1,3 @@
-<H3>NAME : AAKASH S</H3>
-<H3>REGISTER NO. 212221240001</H3>
 <H3>EX. NO.7</H3>
 <H3>DATE:25/04/2024</H3>
 <H1 ALIGN =CENTER>Implementation of Text  Summarization</H1>
@@ -76,7 +74,7 @@ search engines and business intelligence.
 
 <H3>Output</H3>
 
-![image](https://github.com/JoyceBeulah/Ex-7-AAI/assets/118343698/bf5aa75c-11b6-4093-8e0b-ad928c3387df)
+![image](https://github.com/Venkatigi/Ex-7-AAI/assets/94154252/c99c6c91-9861-4453-85c9-ba497d4bd368)
 
 
 <H3>Result:</H3>
